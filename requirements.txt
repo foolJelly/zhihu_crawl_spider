@@ -2,7 +2,7 @@ redis==2.10.5
 six==1.12.0
 mouse==0.7.1
 Keras==2.0.1
-lxml==4.4.1
+lxml==4.9.1
 PyMySQL==0.7.10
 Scrapy==1.7.3
 selenium==3.141.0
