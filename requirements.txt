@@ -10,5 +10,5 @@ Twisted==19.7.0
 requests==2.22.0
 numpy==1.18.1
 pymongo==3.9.0
-Pillow==7.1.2
+Pillow==9.3.0
 scikit_learn==0.23.1
